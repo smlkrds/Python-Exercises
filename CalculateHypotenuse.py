@@ -7,9 +7,8 @@ def hypotenuse():
         
     leg_a_to_b = int(input())
     leg_b_to_c = int(input())
-
     Hypotenuse = math.sqrt(leg_a_to_b**2 + leg_b_to_c**2)
 
-    return print(int(Hypotenuse))
+    print(int(Hypotenuse))
 
 hypotenuse()
