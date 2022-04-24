@@ -11,4 +11,4 @@ def find_rotate_pairs() :
 
 print(find_rotate_pairs())
 
-""" 
+""" https://github.com/AllenDowney/ThinkPython2/blob/master/code/words.txt ==> You can download words.txt from here. """
